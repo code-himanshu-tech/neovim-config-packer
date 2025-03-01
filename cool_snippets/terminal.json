@@ -1,0 +1,90 @@
+{
+  "terminal_snippets": {
+    "git": [
+      {
+        "command": "git status",
+        "description": "Show the working tree status"
+      },
+      {
+        "command": "git pull",
+        "description": "Fetch and merge from remote"
+      },
+      {
+        "command": "git push",
+        "description": "Push changes to remote"
+      },
+      {
+        "command": "git commit -m ",
+        "description": "Commit changes with a message (append message after)"
+      },
+      {
+        "command": "git branch",
+        "description": "List all branches"
+      }
+    ],
+    "npm": [
+      {
+        "command": "npm install",
+        "description": "Install dependencies"
+      },
+      {
+        "command": "npm start",
+        "description": "Start the project"
+      },
+      {
+        "command": "npm run build",
+        "description": "Build the project"
+      }
+    ],
+    "python": [
+      {
+        "command": "python",
+        "description": "Start Python interpreter"
+      },
+      {
+        "command": "python3 -m ",
+        "description": "Run a Python module (append module name)"
+      },
+      {
+        "command": "pip install ",
+        "description": "Install a Python package (append package name)"
+      }
+    ],
+    "docker": [
+      {
+        "command": "docker ps",
+        "description": "List running containers"
+      },
+      {
+        "command": "docker images",
+        "description": "List Docker images"
+      },
+      {
+        "command": "docker run ",
+        "description": "Run a container (append image name)"
+      }
+    ],
+    "general": [
+      {
+        "command": "ls",
+        "description": "List directory contents (Unix)"
+      },
+      {
+        "command": "dir",
+        "description": "List directory contents (Windows)"
+      },
+      {
+        "command": "clear",
+        "description": "Clear terminal screen (Unix)"
+      },
+      {
+        "command": "cls",
+        "description": "Clear terminal screen (Windows)"
+      },
+      {
+        "command": "mkdir ",
+        "description": "Create a new directory (append name)"
+      }
+    ]
+  }
+}
